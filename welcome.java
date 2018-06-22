@@ -3,7 +3,7 @@ class Subbu
 {
 	public static void main()
 	{
-		int i=1000000;
+		int i=100;
 		System.out.println("welcome to my world");
 	}
 }

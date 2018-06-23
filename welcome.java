@@ -5,7 +5,8 @@ class Subbu
 	{
 		int i=100;	
 		hi every one
-ghhhhhhhhhhhh	
+		int i=10000000;
+		hello
 		System.out.println("welcome to my world");
 	}
 }

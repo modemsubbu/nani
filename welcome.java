@@ -3,8 +3,9 @@ class Subbu
 {
 	public static void main()
 	{
-		int i=10000000;
-		hello
+		int i=100;	
+		hi every one
+ghhhhhhhhhhhh	
 		System.out.println("welcome to my world");
 	}
 }
